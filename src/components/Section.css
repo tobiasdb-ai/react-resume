@@ -1,0 +1,27 @@
+.section {
+    width: inherit;
+    padding: 0px 5px 0px 5px;
+}
+
+.section-header {
+    text-align: center;
+}
+
+.section-title {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.section-title span {
+    display: block;
+    height: 6px;
+    /* background-color: #2185d0; */
+}
+
+.section-subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 22px;
+}

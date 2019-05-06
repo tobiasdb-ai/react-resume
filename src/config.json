@@ -1,0 +1,156 @@
+{
+  "profile": {
+    "name": "Zain Ahmad",
+    "title": "Software Engineer",
+    "avatarUrl": "images/avatar.svg",
+    "sites": [
+      {
+        "icon": "github",
+        "url": "https://www.github.com/notzain"
+      },
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/zain-ahmad-a74970123/"
+      },
+      {
+        "icon": "linkify",
+        "url": "https://www.linkedin.com/in/zain-ahmad-a74970123/"
+      }
+    ]
+  },
+  "experience": {
+    "work": [
+      {
+        "title": "TNO - Research Assistent (Intern)",
+        "active": false,
+        "date": "2017-2018",
+        "description": [
+          "Intern at TNO (Distributed Systems).",
+          "Worked on a project to research and implement a wireless protocol for a large, scalable yet reliable mesh network of embedded devices. "
+        ],
+        "labels": [
+          "C++",
+          "C",
+          "Python",
+          "Networking",
+          "Wireless Protocols",
+          "IEEE 802.15.4",
+          "ZigBee"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "title": "The Hague University of Applied Sciences",
+        "active": true,
+        "date": "2015 - Now",
+        "description": ["HBO-ICT with specialization  in systems engineering."],
+        "labels": []
+      },
+      {
+        "title": "Avans University of Applied Sciences",
+        "active": false,
+        "date": "2018 - 2019",
+        "description": [
+          "Succesfully finished a minor in Software Architecture and Game Development."
+        ],
+        "labels": ["Design Patterns", "AI", "Algorithms", "Algebra"]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Chip8 Emulator",
+      "description": [
+        "Chip8 is an interpreted programming language developed in the mid-1970's, for 8-bit computers.",
+        "This project emulates the Chip8 VM, so that ROMs written for the Chip8 can run on modern PC's."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/chip8_emulator"
+        }
+      ],
+      "labels": ["C++", "CMake", "Reverse Engineering", "Travis", "Git"]
+    },
+    {
+      "title": "ZigBee packet sniffer",
+      "description": [
+        "This program reads bytes received from a ZigBee packet sniffer, and interprets the bytes to form a human-readable packet."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/QtZigbeeHelper"
+        }
+      ],
+      "labels": ["C++", "CMake", "Qt", "ZigBee", "USB Communication", "Git"]
+    },
+    {
+      "title": "3D Object Viewer",
+      "description": [
+        "This program reads 3D OBJ files, and represents the vertices and faces in a 3d world."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/3d-linal"
+        },
+        {
+          "icon": "youtube",
+          "url": "https://youtu.be/WMXaF8hbqgw"
+        }
+      ],
+      "labels": [
+        "C++",
+        "CMake",
+        "Linear Algebra",
+        "Unit Tests",
+        "Travis",
+        "Git"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "C++",
+      "value": 90
+    },
+    {
+      "name": "CMake",
+      "value": 80
+    },
+    {
+      "name": "(Embedded) C",
+      "value": 70
+    },
+    {
+      "name": "Python",
+      "value": 75
+    },
+
+    {
+      "name": "Javascript",
+      "value": 60
+    },
+    {
+      "name": "React",
+      "value": 60
+    },
+    {
+      "name": "Git",
+      "value": 80
+    },
+    {
+      "name": "Agile",
+      "value": 80
+    },
+    {
+      "name": "Linux",
+      "value": 80
+    }
+  ]
+}
