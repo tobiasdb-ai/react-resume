@@ -118,7 +118,7 @@ class MainContainer extends React.Component {
             <Ref innerRef={this.contentRef}>
               <Grid.Row className="container-content">
                 <Section title="Experience">
-                  <Grid columns={2} stretched>
+                  <Grid columns={2} stackable stretched>
                     <Grid.Column>
                       <Timeline>
                         <TimelineHeader icon="suitcase" title="Work" />
