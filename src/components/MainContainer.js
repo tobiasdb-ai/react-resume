@@ -45,12 +45,23 @@ const MakeProfile = profile => (
   <Profile name={profile.name} title={profile.title} avatar={profile.avatarUrl}>
     <Button.Group basic size="small">
       {profile.sites.map((site, i) => (
-        <Button key={i} icon={site.icon} href={site.url} target="_blank" />
+        <Button
+          key={i}
+          icon={site.icon}
+          href={site.url}
+          target="_blank"
+          disabled={site.url.length === 0}
+        />
       ))}
     </Button.Group>
 
     <Button.Group vertical color={"blue"}>
-      <Button labelPosition="right" content="Download CV" icon="download" />
+      <Button
+        labelPosition="right"
+        content="Download CV"
+        icon="download"
+        disabled
+      />
     </Button.Group>
   </Profile>
 );
