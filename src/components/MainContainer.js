@@ -60,7 +60,9 @@ const MakeProfile = profile => (
         labelPosition="right"
         content="Download CV"
         icon="download"
-        disabled
+        disabled={profile.resume.url.length === 0}
+        href={profile.resume.url}
+        download={profile.resume.fileName}
       />
     </Button.Group>
   </Profile>

@@ -3,6 +3,10 @@
     "name": "Zain Ahmad",
     "title": "Software Engineer",
     "avatarUrl": "images/avatar.svg",
+    "resume": {
+      "url": "files/resume.pdf",
+      "fileName": "Zain Ahmad - CV"
+    },
     "sites": [
       {
         "icon": "github",
@@ -15,7 +19,7 @@
       },
       {
         "icon": "linkify",
-        "url": ""
+        "url": "https://notzain.com/"
       }
     ]
   },
