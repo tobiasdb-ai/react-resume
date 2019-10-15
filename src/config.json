@@ -42,6 +42,25 @@
           "IEEE 802.15.4",
           "ZigBee"
         ]
+      },
+       {
+        "title": "PROCENTEC - R&D Developer/Researcher (Intern)",
+        "active": true,
+        "date": "2019-2020",
+        "description": [
+          "Intern at PROCENTEC (Research & Development).",
+          "Working on a research project to find the possiblities of using and implementing cloud services in Industral Automation network monitoring software."
+        ],
+        "labels": [
+          "C++",
+          "(Embedded) Linux",
+          "Cloud",
+          "Network monitoring",
+          "Industral Ethernet",
+          "PROFIBUS",
+          "PROFINET",
+          "OPCUA"
+        ]
       }
     ],
     "education": [
@@ -64,6 +83,21 @@
     ]
   },
   "projects": [
+    {
+      "title": "Raytracer",
+      "description": [
+        "Ray tracing is a rendering technique that can produce incredibly realistic lighting effects.",
+        "Project to play around with C++17, Conan package manager, and math."
+      ],
+      "imageUrl": "https://camo.githubusercontent.com/1a9e59b19de53d3372db2086b0b8c2ea9322d90b/68747470733a2f2f692e696d6775722e636f6d2f6a5547327736522e706e67",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/raytracer"
+        }
+      ],
+      "labels": ["C++ 17", "CMake", "Git", "Conan package manager", "Math"]
+    },
     {
       "title": "Chip8 Emulator",
       "description": [
