@@ -15,7 +15,6 @@
       {
         "icon": "linkedin",
         "url": "https://www.linkedin.com/in/zain-ahmad-a74970123/"
-
       },
       {
         "icon": "linkify",
@@ -26,24 +25,6 @@
   "experience": {
     "work": [
       {
-        "title": "TNO - Research Assistent (Intern)",
-        "active": false,
-        "date": "2017-2018",
-        "description": [
-          "Intern at TNO (Distributed Systems).",
-          "Worked on a project to research and implement a wireless protocol for a large, scalable yet reliable mesh network of embedded devices. "
-        ],
-        "labels": [
-          "C++",
-          "C",
-          "Python",
-          "Networking",
-          "Wireless Protocols",
-          "IEEE 802.15.4",
-          "ZigBee"
-        ]
-      },
-       {
         "title": "PROCENTEC - R&D Developer/Researcher (Intern)",
         "active": true,
         "date": "2019-2020",
@@ -61,6 +42,24 @@
           "PROFINET",
           "OPCUA"
         ]
+      },
+      {
+        "title": "TNO - Research Assistent (Intern)",
+        "active": false,
+        "date": "2017-2018",
+        "description": [
+          "Intern at TNO (Distributed Systems).",
+          "Worked on a project to research and implement a wireless protocol for a large, scalable yet reliable mesh network of embedded devices. "
+        ],
+        "labels": [
+          "C++",
+          "C",
+          "Python",
+          "Networking",
+          "Wireless Protocols",
+          "IEEE 802.15.4",
+          "ZigBee"
+        ]
       }
     ],
     "education": [
@@ -68,7 +67,9 @@
         "title": "The Hague University of Applied Sciences",
         "active": true,
         "date": "2015 - Now",
-        "description": ["HBO-ICT with specialization  in systems engineering."],
+        "description": [
+          "HBO-ICT with specialization  in systems engineering."
+        ],
         "labels": []
       },
       {
@@ -78,11 +79,34 @@
         "description": [
           "Succesfully finished a minor in Software Architecture and Game Development."
         ],
-        "labels": ["Design Patterns", "AI", "Algorithms", "Algebra"]
+        "labels": [
+          "Design Patterns",
+          "AI",
+          "Algorithms",
+          "Algebra"
+        ]
       }
     ]
   },
   "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": [
+        "My personal website that serves as portfolio and online resume."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/react-resume"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
     {
       "title": "Raytracer",
       "description": [
@@ -96,7 +120,12 @@
           "url": "https://github.com/notzain/raytracer"
         }
       ],
-      "labels": ["C++ 17", "CMake", "Git", "Conan package manager", "Math"]
+      "labels": [
+        "C++ 17",
+        "CMake",
+        "Conan package manager",
+        "Algebra"
+      ]
     },
     {
       "title": "Chip8 Emulator",
@@ -111,7 +140,12 @@
           "url": "https://github.com/notzain/chip8_emulator"
         }
       ],
-      "labels": ["C++", "CMake", "Reverse Engineering", "Travis", "Git"]
+      "labels": [
+        "C++",
+        "CMake",
+        "Reverse Engineering",
+        "Travis"
+      ]
     },
     {
       "title": "ZigBee packet sniffer",
@@ -125,7 +159,13 @@
           "url": "https://github.com/notzain/QtZigbeeHelper"
         }
       ],
-      "labels": ["C++", "CMake", "Qt", "ZigBee", "USB Communication", "Git"]
+      "labels": [
+        "C++",
+        "CMake",
+        "Qt",
+        "ZigBee",
+        "USB Communication"
+      ]
     },
     {
       "title": "3D Object Viewer",
@@ -148,8 +188,7 @@
         "CMake",
         "Linear Algebra",
         "Unit Tests",
-        "Travis",
-        "Git"
+        "Travis CI"
       ]
     }
   ],
@@ -170,7 +209,6 @@
       "name": "Python",
       "value": 75
     },
-
     {
       "name": "Javascript",
       "value": 60
