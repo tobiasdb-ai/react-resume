@@ -25,28 +25,47 @@
   "experience": {
     "work": [
       {
-        "title": "PROCENTEC - R&D Developer/Researcher (Intern)",
+        "title": "PROCENTEC - R&D Developer",
         "active": true,
-        "date": "2019-2020",
+        "date": "2020 - Present",
+        "description": [
+          "Working on monitoring and diagnostics software for industrial networks."
+        ],
+        "labels": [
+          "C++",
+          "Angular",
+          "JavaScript/TypeScript",
+          "(Embedded) Linux",
+          "Network monitoring",
+          "Industral Ethernet",
+          "EtherNet/IP",
+          "PROFIBUS",
+          "PROFINET"
+        ]
+      },
+      {
+        "title": "PROCENTEC - R&D Developer/Researcher (Intern)",
+        "active": false,
+        "date": "2019",
         "description": [
           "Intern at PROCENTEC (Research & Development).",
-          "Working on a research project to find the possiblities of using and implementing cloud services in Industral Automation network monitoring software."
+          "Worked on a research project to find the possiblities of using and implementing cloud services in Industral Automation network monitoring software."
         ],
         "labels": [
           "C++",
           "(Embedded) Linux",
           "Cloud",
+          "AWS",
           "Network monitoring",
           "Industral Ethernet",
           "PROFIBUS",
-          "PROFINET",
-          "OPCUA"
+          "PROFINET"
         ]
       },
       {
         "title": "TNO - Research Assistent (Intern)",
         "active": false,
-        "date": "2017-2018",
+        "date": "2017 - 2018",
         "description": [
           "Intern at TNO (Distributed Systems).",
           "Worked on a project to research and implement a wireless protocol for a large, scalable yet reliable mesh network of embedded devices. "
@@ -65,12 +84,18 @@
     "education": [
       {
         "title": "The Hague University of Applied Sciences",
-        "active": true,
-        "date": "2015 - Now",
+        "active": false,
+        "date": "2015 - 2019",
         "description": [
-          "HBO-ICT with specialization  in systems engineering."
+          "Graduated HBO-ICT (BSc) in Network & Systems Engineering."
         ],
-        "labels": []
+        "labels": [
+          "Systems Engineering",
+          "Computer Networking",
+          "Industrial Automation",
+          "Programming",
+          "Software Architecture"
+        ]
       },
       {
         "title": "Avans University of Applied Sciences",
