@@ -109,15 +109,87 @@
   },
   "certificates": [
     {
-      "title": "Sample certificate",
+      "title": "Essential Security",
       "description": [
-        "TestDescription"
+        "How does hacking work, and more important, how can you protect yourself against it? The Essential Security certification offers you a practical introduction in the world of application and server security. The exciting challenges teach you the basics of SQL Injection and Path Traversal. This certification ensures you understand the hacker mindset and the vulnerabilities SQL Injection and Path Traversal."
       ],
       "imageUrl": "",
       "urls": [
         {
-          "icon": "github",
-          "url": "https://google.com"
+          "icon": "linkify",
+          "url": "https://www.certifiedsecure.com/profile/CS-22042255341"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "title": "Essential Specialties",
+      "description": [
+        "The Essential Specialties certification is the sequel to Essential Security. The multiple challenges push your SQL Injection and Path Traversal skills to the limit. You will obtain the Essential Specialties certification by completing all three examination challenges. If you want to proceed with Security Specialist you need a score of 33%. In that case one of the examination challenges will do."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "linkify",
+          "url": "https://www.certifiedsecure.com/profile/CS-22042255341"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "title": "Security Specialist",
+      "description": [
+        "The next step in server and application security is the Security Specialist certification. The certification guarantees you understand the most common security threats for web applications and servers, are able to perform a port scan and software version scan and that you are able to find and prevent Cross Site Scripting, advanced SQL Injection and advanced Path Traversal. The Security Specialist Certificate is a must-have for every security specialist."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "linkify",
+          "url": "https://www.certifiedsecure.com/profile/CS-22042255341"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "title": "Web Security Specialist",
+      "description": [
+        "The Web Security Specialist certification delves deeper into the world of advanced web application vulnerabilities. The certification guarantees understanding of Javascript Authentication, Identifier Based Authentication, Command Injection, PHP Uploads, Cross Site Request Forgery and Password Guessing. In combination with the Server Security Specialist certification it forms the basis for every security consultant."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "linkify",
+          "url": "https://www.certifiedsecure.com/profile/CS-22042255341"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "title": "Forensic Specialist",
+      "description": [
+        "The Forensic Specialist certification offers an introduction into the world of forensic analysis and focuses on finding forensic traces. Which traces remain on a system that is compromised? How do you analyze network traffic and how do you recognize the attacks? The certification guarantees a basic knowledge of network monitoring and forensic analysis. All techniques are explored with realistic examples."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "linkify",
+          "url": "https://www.certifiedsecure.com/profile/CS-22042255341"
         }
       ],
       "labels": [
