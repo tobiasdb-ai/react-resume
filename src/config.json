@@ -108,6 +108,37 @@
           "Algebra"
         ]
       }
+    ],
+    "certificates": [
+      {
+        "title": "TESTESTEST",
+        "active": false,
+        "date": "2015 - 2019",
+        "description": [
+          "Graduated HBO-ICT (BSc) in Network & Systems Engineering."
+        ],
+        "labels": [
+          "Systems Engineering",
+          "Computer Networking",
+          "Industrial Automation",
+          "Programming",
+          "Software Architecture"
+        ]
+      },
+      {
+        "title": "Avans University of Applied Sciences",
+        "active": false,
+        "date": "2018 - 2019",
+        "description": [
+          "Succesfully finished a minor in Software Architecture and Game Development."
+        ],
+        "labels": [
+          "Design Patterns",
+          "AI",
+          "Algorithms",
+          "Algebra"
+        ]
+      }
     ]
   },
   "projects": [
