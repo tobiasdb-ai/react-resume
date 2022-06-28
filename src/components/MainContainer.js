@@ -134,6 +134,12 @@ class MainContainer extends React.Component {
                         {MakeTimeline(config.experience.education)}
                       </Timeline>
                     </Grid.Column>
+                    <Grid.Column>
+                      <Timeline>
+                        <TimelineHeader icon="certificate" title="Certificates" />
+                        {MakeTimeline(config.experience.education)}
+                      </Timeline>
+                    </Grid.Column>
                   </Grid>
                 </Section>
 
