@@ -1,20 +1,20 @@
 {
   "profile": {
-    "name": "Zain Ahmad",
-    "title": "Software Engineer",
+    "name": "Tobias de Bildt",
+    "title": "Junior DevOps/Software Engineer",
     "avatarUrl": "images/avatar.svg",
     "resume": {
       "url": "files/resume.pdf",
-      "fileName": "Zain Ahmad - CV"
+      "fileName": "Tobias de Bildt - CV"
     },
     "sites": [
       {
         "icon": "github",
-        "url": "https://www.github.com/notzain"
+        "url": "https://www.github.com/tobiasdb-ai"
       },
       {
         "icon": "linkedin",
-        "url": "https://www.linkedin.com/in/zain-ahmad-a74970123/"
+        "url": "https://www.linkedin.com/in/tobias-de-bildt-437ba9233/"
       },
       {
         "icon": "linkify",
