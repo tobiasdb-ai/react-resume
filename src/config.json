@@ -27,7 +27,7 @@
       {
         "title": "PROCENTEC - R&D Developer",
         "active": true,
-        "date": "2020 - Present",
+        "date": "2022 - Present",
         "description": [
           "Working on monitoring and diagnostics software for industrial networks."
         ],
@@ -45,22 +45,18 @@
         ]
       },
       {
-        "title": "PROCENTEC - R&D Developer/Researcher (Intern)",
+        "title": "IDD - Junior Web Developer",
         "active": false,
-        "date": "2019",
+        "date": "May 2021 - Oct 2021",
         "description": [
-          "Intern at PROCENTEC (Research & Development).",
-          "Worked on a research project to find the possiblities of using and implementing cloud services in Industral Automation network monitoring software."
+          "Junior web developer at Innovative Design Delft",
+          "Full stack web development for multiple clients integrating SQL databases into web apps for data observation and manipulation."
         ],
         "labels": [
-          "C++",
-          "(Embedded) Linux",
-          "Cloud",
-          "AWS",
-          "Network monitoring",
-          "Industral Ethernet",
-          "PROFIBUS",
-          "PROFINET"
+          "PHP",
+          "SQL",
+          "HTML",
+          "CSS"
         ]
       },
       {
