@@ -110,6 +110,110 @@
       }
     ]
   },
+  "certificates": [
+    {
+      "title": "Portfolio Website",
+      "description": [
+        "My personal website that serves as portfolio and online resume."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/react-resume"
+        }
+      ],
+      "labels": [
+        "JavaScript",
+        "CSS",
+        "React"
+      ]
+    },
+    {
+      "title": "Raytracer",
+      "description": [
+        "Ray tracing is a rendering technique that can produce incredibly realistic lighting effects.",
+        "Project to play around with C++17, Conan package manager, and math."
+      ],
+      "imageUrl": "https://camo.githubusercontent.com/1a9e59b19de53d3372db2086b0b8c2ea9322d90b/68747470733a2f2f692e696d6775722e636f6d2f6a5547327736522e706e67",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/raytracer"
+        }
+      ],
+      "labels": [
+        "C++ 17",
+        "CMake",
+        "Conan package manager",
+        "Algebra"
+      ]
+    },
+    {
+      "title": "Chip8 Emulator",
+      "description": [
+        "Chip8 is an interpreted programming language developed in the mid-1970's, for 8-bit computers.",
+        "This project emulates the Chip8 VM, so that ROMs written for the Chip8 can run on modern PC's."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/chip8_emulator"
+        }
+      ],
+      "labels": [
+        "C++",
+        "CMake",
+        "Reverse Engineering",
+        "Travis"
+      ]
+    },
+    {
+      "title": "ZigBee packet sniffer",
+      "description": [
+        "This program reads bytes received from a ZigBee packet sniffer, and interprets the bytes to form a human-readable packet."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/QtZigbeeHelper"
+        }
+      ],
+      "labels": [
+        "C++",
+        "CMake",
+        "Qt",
+        "ZigBee",
+        "USB Communication"
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "description": [
+        "This program reads 3D OBJ files, and represents the vertices and faces in a 3d world."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/notzain/3d-linal"
+        },
+        {
+          "icon": "youtube",
+          "url": "https://youtu.be/WMXaF8hbqgw"
+        }
+      ],
+      "labels": [
+        "C++",
+        "CMake",
+        "Linear Algebra",
+        "Unit Tests",
+        "Travis CI"
+      ]
+    }
+  ],
   "projects": [
     {
       "title": "Portfolio Website",
