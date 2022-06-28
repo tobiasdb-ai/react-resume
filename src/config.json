@@ -121,15 +121,14 @@
         }
       ],
       "labels": [
-        "JavaScript",
-        "CSS",
-        "React"
+        "SQLi",
+        "Linux"
       ]
     },
     {
       "title": "Essential Specialties",
       "description": [
-        "The Essential Specialties certification is the sequel to Essential Security. The multiple challenges push your SQL Injection and Path Traversal skills to the limit. You will obtain the Essential Specialties certification by completing all three examination challenges. If you want to proceed with Security Specialist you need a score of 33%. In that case one of the examination challenges will do."
+        "The Essential Specialties certification is the sequel to Essential Security. The multiple challenges push your SQL Injection and Path Traversal skills to the limit. You will obtain the Essential Specialties certification by completing all three examination challenges."
       ],
       "imageUrl": "",
       "urls": [
@@ -139,9 +138,8 @@
         }
       ],
       "labels": [
-        "JavaScript",
-        "CSS",
-        "React"
+        "SQLi",
+        "XSS"
       ]
     },
     {
@@ -157,9 +155,9 @@
         }
       ],
       "labels": [
-        "JavaScript",
-        "CSS",
-        "React"
+        "Pentesting",
+        "XSS",
+        "Advanced (blind) SQLi"
       ]
     },
     {
@@ -176,8 +174,10 @@
       ],
       "labels": [
         "JavaScript",
-        "CSS",
-        "React"
+        "XSS",
+        "XSRF",
+        "PHP",
+        "Shell"
       ]
     },
     {
@@ -193,9 +193,9 @@
         }
       ],
       "labels": [
-        "JavaScript",
-        "CSS",
-        "React"
+        "File Systems",
+        "Linux",
+        "Wireshark"
       ]
     }
   ],
@@ -217,128 +217,44 @@
         "CSS",
         "React"
       ]
-    },
-    {
-      "title": "Raytracer",
-      "description": [
-        "Ray tracing is a rendering technique that can produce incredibly realistic lighting effects.",
-        "Project to play around with C++17, Conan package manager, and math."
-      ],
-      "imageUrl": "https://camo.githubusercontent.com/1a9e59b19de53d3372db2086b0b8c2ea9322d90b/68747470733a2f2f692e696d6775722e636f6d2f6a5547327736522e706e67",
-      "urls": [
-        {
-          "icon": "github",
-          "url": "https://github.com/notzain/raytracer"
-        }
-      ],
-      "labels": [
-        "C++ 17",
-        "CMake",
-        "Conan package manager",
-        "Algebra"
-      ]
-    },
-    {
-      "title": "Chip8 Emulator",
-      "description": [
-        "Chip8 is an interpreted programming language developed in the mid-1970's, for 8-bit computers.",
-        "This project emulates the Chip8 VM, so that ROMs written for the Chip8 can run on modern PC's."
-      ],
-      "imageUrl": "",
-      "urls": [
-        {
-          "icon": "github",
-          "url": "https://github.com/notzain/chip8_emulator"
-        }
-      ],
-      "labels": [
-        "C++",
-        "CMake",
-        "Reverse Engineering",
-        "Travis"
-      ]
-    },
-    {
-      "title": "ZigBee packet sniffer",
-      "description": [
-        "This program reads bytes received from a ZigBee packet sniffer, and interprets the bytes to form a human-readable packet."
-      ],
-      "imageUrl": "",
-      "urls": [
-        {
-          "icon": "github",
-          "url": "https://github.com/notzain/QtZigbeeHelper"
-        }
-      ],
-      "labels": [
-        "C++",
-        "CMake",
-        "Qt",
-        "ZigBee",
-        "USB Communication"
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "description": [
-        "This program reads 3D OBJ files, and represents the vertices and faces in a 3d world."
-      ],
-      "imageUrl": "",
-      "urls": [
-        {
-          "icon": "github",
-          "url": "https://github.com/notzain/3d-linal"
-        },
-        {
-          "icon": "youtube",
-          "url": "https://youtu.be/WMXaF8hbqgw"
-        }
-      ],
-      "labels": [
-        "C++",
-        "CMake",
-        "Linear Algebra",
-        "Unit Tests",
-        "Travis CI"
-      ]
     }
   ],
   "skills": [
     {
-      "name": "C++",
-      "value": 90
-    },
-    {
-      "name": "CMake",
+      "name": "Python",
       "value": 80
     },
     {
-      "name": "(Embedded) C",
-      "value": 70
+      "name": "Java",
+      "value": 50
     },
     {
-      "name": "Python",
-      "value": 75
-    },
-    {
-      "name": "Javascript",
-      "value": 60
-    },
-    {
-      "name": "React",
-      "value": 60
+      "name": "JavaScript",
+      "value": 55
     },
     {
       "name": "Git",
-      "value": 80
+      "value": 75
+    },
+    {
+      "name": "C++",
+      "value": 30
+    },
+    {
+      "name": "C",
+      "value": 40
     },
     {
       "name": "Agile",
-      "value": 80
+      "value": 70
     },
     {
-      "name": "Linux",
-      "value": 80
+      "name": "Angular",
+      "value": 65
+    },
+    {
+      "name": "Kubernetes",
+      "value": 60
     }
   ]
 }

@@ -145,13 +145,13 @@ class MainContainer extends React.Component {
                 <br />
                 <br />
 
-                {/* <Section title="Projects">
+                <Section title="Projects">
                   <Portfolio>{MakePortfolio(config.projects)}</Portfolio>
                 </Section>
 
                 <br />
                 <br />
-                <br /> */}
+                <br />
 
                 <Section title="Skills">
                   <Grid>
