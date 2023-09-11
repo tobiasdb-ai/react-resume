@@ -137,18 +137,18 @@ class MainContainer extends React.Component {
                   </Grid>
                 </Section>
 
-                <Section title="Certificates">
-                  <Portfolio>{MakePortfolio(config.certificates)}</Portfolio>
-                </Section>
-                
-                <br />
-                <br />
-                <br />
-
                 <Section title="Projects">
                   <Portfolio>{MakePortfolio(config.projects)}</Portfolio>
                 </Section>
 
+                <br />
+                <br />
+                <br />
+
+                <Section title="Certificates">
+                  <Portfolio>{MakePortfolio(config.certificates)}</Portfolio>
+                </Section>
+                
                 <br />
                 <br />
                 <br />

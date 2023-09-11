@@ -17,8 +17,8 @@
         "url": "https://www.linkedin.com/in/tobias-de-bildt-437ba9233/"
       },
       {
-        "icon": "instagram",
-        "url": "https://www.instagram.com/tobitaat/"
+        "icon": "linkify",
+        "url": "https://tobiasdebildt.com/"
       }
     ]
   },
@@ -80,7 +80,7 @@
         "active": true,
         "date": "2021 - present",
         "description": [
-          "Currently obtaining my HBO-ICT (BSc) in Computer Science."
+          "Currently obtaining my HBO-ICT (BSc) in the Honours Programme of Computer Science."
         ],
         "labels": [
           "Design Patterns",
@@ -201,21 +201,81 @@
   ],
   "projects": [
     {
-      "title": "Portfolio Website",
+      "title": "Automatic roller blind",
       "description": [
-        "My personal website that serves as portfolio and online resume."
+        "I have designed and realised a 3d printed adapter that attaches to a store bought roller blind. This adapter has a gear train driven by a stepper motor connected to a microcontroller. This microcontroller connects with my google home, enabling me to voice activate the opening and closing of my curtains, or set it to open in the morning at a giving time."
       ],
       "imageUrl": "",
       "urls": [
         {
           "icon": "github",
-          "url": "https://github.com/notzain/react-resume"
+          "url": "https://github.com/"
         }
       ],
       "labels": [
-        "JavaScript",
-        "CSS",
-        "React"
+        "Hardware prototyping",
+        "Electrical engineering",
+        "IoT",
+        "PCB designing"
+      ]
+    },
+    {
+      "title": "DIY Philips hue remote",
+      "description": [
+        "I have built a diy Philips Hue remote to turn off my bedroom lights with more ease."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/"
+        }
+      ],
+      "labels": [
+        "Hardware prototyping",
+        "IoT",
+        "API integration",
+        "Security considerations"
+      ]
+    },
+    {
+      "title": "Discord bot",
+      "description": [
+        "I have programmed a python Discord bot with over 30 original functions, including but not limited to: a dictionary function (connected to the UrbanDictionary API), a command that lets the user print a text onto a receipt with a printer connected to the server. The bot also performed big data analysis on things like activity and messages."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/"
+        }
+      ],
+      "labels": [
+        "Python",
+        "Databases",
+        "Big data analysis",
+        "Server management",
+        "VPS"
+      ]
+    },
+    {
+      "title": "Book Downloader",
+      "description": [
+        "In secondary school I had found a safety vulnerability in the digital suite of our educational book publisher. This allowed me to view all the books they have made, even the ones not set available to me, with my own API key. I had written a python script that could webscrape an entire book in minutes and their entire library in hours."
+      ],
+      "imageUrl": "",
+      "urls": [
+        {
+          "icon": "github",
+          "url": "https://github.com/"
+        }
+      ],
+      "labels": [
+        "Python",
+        "Web scraping",
+        "Web automation",
+        "DRM",
+        "Selenium"
       ]
     }
   ],
